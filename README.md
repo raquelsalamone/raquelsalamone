@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there, I'm Raquel 👋
 
-<!--
-**raquelsalamone/raquelsalamone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ _ Developpeur - WordPress - Web Designer _ ✨ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am currently in developer training - WordPress
+- 👯 I am also a web designer
+- 🤔Of a creative, dynamic and curious nature
+- 💬 The sense of aesthetics that characterizes me is an asset
+- 📫 2023 goals: Learn more about HTML/CSS
+- 😄gamer in my lost hours
+
+<br>
+
+## Connect with me:  
+
+
+[![website](./image/globe-dark.svg)](https://www.raquel-salamone.fr/)
+&nbsp;&nbsp;
+[![website](./image/youtube-dark.svg)](https://www.youtube.com/channel/UCWiNhLusHCiuGwe3jlsR8nQ)
+&nbsp;&nbsp;
+[![website](./image/twitter-dark.svg)](#)
+&nbsp;&nbsp;
+[![website](./image/linkedin-dark.svg)](https://www.linkedin.com/in/raquel-salamone/)
+&nbsp;&nbsp;
+[![website](./image/instagram-dark.svg)](#)
