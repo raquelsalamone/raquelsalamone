@@ -57,7 +57,7 @@
 <br />
 
 ---
-### <summary>:zap: Recent GitHub Activity</summary>
+### :zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 1. 🗣 Booki (https://github.com/raquelsalamone/booki.git)
