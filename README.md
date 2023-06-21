@@ -36,9 +36,7 @@
 <img align="left" alt="Terminal" width="26px" src="./image/terminal-dark.svg" />
 
 <br />
-
-
-
-
 <br />
+
+---
 
