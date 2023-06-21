@@ -36,7 +36,6 @@
 <img align="left" alt="Terminal" width="26px" src="./image/terminal-dark.svg" />
 
 <br />
-<br />
 
 ---
 
@@ -52,8 +51,6 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC9NiJSjilVAwmVACKHotUaA)
-
-<br />
 <br />
 
 ---
