@@ -40,3 +40,15 @@
 
 ---
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Video cv](https://youtu.be/Es49wTG9Cw8)
+- [🤔 video promotionnelle: agence web](https://youtu.be/4UsVho4C8qQ)
+- [video pormotionnelle Pic de Gance](https://youtu.be/VUFBQbBjYH8)
+- [video pormotionnelle maquette design e-commerce](https://youtu.be/ia7ofiWOU9U)
+- [video pormotionnelle site web Arkitek](https://youtu.be/QBODkLBUUBc)
+- [video pormotionnelle Marketing](https://youtu.be/n6n3BdDAJUU)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UC9NiJSjilVAwmVACKHotUaA)
