@@ -52,3 +52,17 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC9NiJSjilVAwmVACKHotUaA)
+
+<br />
+<br />
+
+---
+### <summary>:zap: Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+1. 🗣 Booki (https://github.com/raquelsalamone/booki.git)
+2. 💪 Riding-Cities (https://github.com/raquelsalamone/riding-cities.git)
+<!--3. ❗
+4. 💪 
+5. 🎉 
+<!--END_SECTION:activity-->
