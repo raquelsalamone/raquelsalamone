@@ -10,10 +10,7 @@
 - 📫 2023 goals: Learn more about HTML/CSS
 - 😄gamer in my lost hours
 
-<br>
-
-## Connect with me:  
-
+### Connect with me:  
 
 [![website](./image/globe-dark.svg)](https://www.raquel-salamone.fr/)
 &nbsp;&nbsp;
@@ -24,6 +21,10 @@
 [![website](./image/linkedin-dark.svg)](https://www.linkedin.com/in/raquel-salamone/)
 &nbsp;&nbsp;
 [![website](./image/instagram-dark.svg)](#)
+
+<br />
+
+---
 
 ### Languages and Tools:
 
@@ -39,6 +40,18 @@
 
 ---
 
+### :zap: Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+1. 🗣 Booki (https://github.com/raquelsalamone/booki.git)
+2. 💪 Riding-Cities (https://github.com/raquelsalamone/riding-cities.git)
+<!--3. ❗
+4. 💪 
+5. 🎉 
+<!--END_SECTION:activity-->
+<br />
+
+---
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -49,17 +62,5 @@
 - [video pormotionnelle site web Arkitek](https://youtu.be/QBODkLBUUBc)
 - [video pormotionnelle Marketing](https://youtu.be/n6n3BdDAJUU)
 <!-- YOUTUBE:END -->
-
 ➡️ [more videos...](https://www.youtube.com/channel/UC9NiJSjilVAwmVACKHotUaA)
 <br />
-
----
-### :zap: Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-1. 🗣 Booki (https://github.com/raquelsalamone/booki.git)
-2. 💪 Riding-Cities (https://github.com/raquelsalamone/riding-cities.git)
-<!--3. ❗
-4. 💪 
-5. 🎉 
-<!--END_SECTION:activity-->
