@@ -45,9 +45,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Booki (https://github.com/raquelsalamone/booki.git)
 2. 💪 Riding-Cities (https://github.com/raquelsalamone/riding-cities.git)
-<!--3. ❗
-4. 💪 
-5. 🎉 
+4. 💪 Simplvintage (https://github.com/raquelsalamone/riding-cities.git)
+5. <!--3.
+6. 🎉  ❗
 <!--END_SECTION:activity-->
 <br />
 
