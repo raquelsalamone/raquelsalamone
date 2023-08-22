@@ -47,7 +47,7 @@
 2. 💪 Riding-Cities (https://github.com/raquelsalamone/riding-cities.git)
 4. 💪 Simplvintage (https://github.com/raquelsalamone/simplvintage.git)
 5. ❗The Arbox (https://github.com/raquelsalamone/The-Arbox.git)
-6. 🎉  
+6. 🎉Planty (https://github.com/raquelsalamone/planty.git)
 <!--END_SECTION:activity-->
 <br />
 
