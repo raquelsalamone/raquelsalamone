@@ -52,8 +52,8 @@
 <br />
 
 ---
-### 📺 CV video
-   [Video cv](https://youtu.be/Es49wTG9Cw8)
+
+  
 
 <!--- [🤔 video promotionnelle: agence web](https://youtu.be/4UsVho4C8qQ)
 - [video pormotionnelle Pic de Gance](https://youtu.be/VUFBQbBjYH8)
